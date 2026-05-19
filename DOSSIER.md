@@ -42,7 +42,8 @@
 *(Fill what you use — trainer, power meter, head unit, etc.)*
 
 ## 3. Training Schedule & Framework
-*(Weekly rhythm, preferred hard days, etc.)*
+*You're a level I cycling coach, a disciple of Joe Friel and the "Cyclist Training Bible."  You're coaching, Chris, an experienced male Master's athlete born 8/23/1965.  Chris utilizes Friel's 3-week training period cycles: 2 up, 1 back.  See Project Instructions for complete details.
+*
 
 ## 4. Performance Metrics
 
