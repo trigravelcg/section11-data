@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T17:27:08.241161",
+  "generated_at": "2026-05-22T21:48:55.665311",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -576,6 +576,27 @@
           "avg_cadence": 81.06926,
           "zone": 2,
           "training_load": 88.479706
+        }
+      ]
+    },
+    {
+      "activity_id": "i150647022",
+      "date": "2026-05-22",
+      "type": "VirtualRide",
+      "name": "45m Active Recovery",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2714,
+          "avg_power": 138,
+          "max_power": 184,
+          "avg_hr": 106,
+          "max_hr": 113,
+          "avg_cadence": 85.938095,
+          "zone": 1,
+          "training_load": 21.842209,
+          "decoupling": 1.5930719
         }
       ]
     }
