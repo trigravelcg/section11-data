@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-04T12:43:50.484343",
+    "last_updated": "2026-06-04T18:37:52.523056",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -290,7 +290,7 @@
       "respiration": null,
       "body_fat_pct": 10.3,
       "abdomen_cm": null,
-      "steps": 219,
+      "steps": 464,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -662,7 +662,7 @@
           "race_proximity": null,
           "next_week_load": 2.2,
           "plan_coverage_current_week": 0.56,
-          "plan_coverage_next_week": 0.89
+          "plan_coverage_next_week": 1.0
         },
         "data_quality": "good",
         "stream_agreement": null
@@ -695,13 +695,13 @@
     "p_max": 774,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-04T12:43:50.483227",
+    "calculation_timestamp": "2026-06-04T18:37:52.521834",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
       "activities_7d": 8,
       "activities_28d": 35,
-      "planned_workouts_7d": 8,
+      "planned_workouts_7d": 9,
       "ftp_history_days": {
         "indoor": 0,
         "outdoor": 0
@@ -4381,7 +4381,7 @@
       "respiration": null,
       "body_fat_pct": 10.3,
       "abdomen_cm": null,
-      "steps": 219,
+      "steps": 464,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -4467,6 +4467,19 @@
       "planned_tss": 50,
       "duration_hours": 0.75,
       "duration_formatted": "45m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": ""
+    },
+    {
+      "id": 114174239,
+      "date": "2026-06-08",
+      "name": "Build 2-2 950 TSS",
+      "type": "NOTE",
+      "sport_type": null,
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
       "workout_summary": null,
       "has_terrain": false,
       "description": ""
@@ -4558,6 +4571,71 @@
       "planned_tss": 270,
       "duration_hours": 4.42,
       "duration_formatted": "4h25m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": null
+    },
+    {
+      "id": 114174375,
+      "date": "2026-06-15",
+      "name": "Build 2-4 620 TSS",
+      "type": "NOTE",
+      "sport_type": null,
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": null
+    },
+    {
+      "id": 114174418,
+      "date": "2026-06-22",
+      "name": "Build 2-1 950 TSS",
+      "type": "NOTE",
+      "sport_type": null,
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": null
+    },
+    {
+      "id": 114175756,
+      "date": "2026-06-29",
+      "name": "Build 2-2 975 TSS",
+      "type": "NOTE",
+      "sport_type": null,
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": null
+    },
+    {
+      "id": 114175780,
+      "date": "2026-07-06",
+      "name": "Biod 2-4 635 TSS",
+      "type": "NOTE",
+      "sport_type": null,
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": null
+    },
+    {
+      "id": 114175872,
+      "date": "2026-07-13",
+      "name": "Build 1-1 TSS 800",
+      "type": "NOTE",
+      "sport_type": null,
+      "planned_tss": null,
+      "duration_hours": 0.0,
+      "duration_formatted": "0s",
       "workout_summary": null,
       "has_terrain": false,
       "description_preview": null
