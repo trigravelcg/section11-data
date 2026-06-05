@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-05T13:11:58.702293",
+    "last_updated": "2026-06-05T18:26:21.762529",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -655,7 +655,7 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 2.89,
+          "planned_tss_delta": 2.73,
           "hard_sessions_planned": 1,
           "current_week_hard_days_completed": 2,
           "current_week_hard_days_total": 3,
@@ -695,7 +695,7 @@
     "p_max": 773,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-05T13:11:58.701103",
+    "calculation_timestamp": "2026-06-05T18:26:21.761296",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -4515,12 +4515,12 @@
     {
       "id": 113436391,
       "date": "2026-06-06",
-      "name": "GMR 2x",
+      "name": "PV Steeps +",
       "type": "WORKOUT",
       "sport_type": "Ride",
-      "planned_tss": 354,
-      "duration_hours": 6.0,
-      "duration_formatted": "6h",
+      "planned_tss": 325,
+      "duration_hours": 5.5,
+      "duration_formatted": "5h30m",
       "workout_summary": null,
       "has_terrain": false,
       "description": ""
