@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T21:49:29.833635",
+  "generated_at": "2026-06-22T23:13:17.056928",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3035,6 +3035,27 @@
           "zone": 1,
           "training_load": 1.0305585,
           "decoupling": 100.0
+        }
+      ]
+    },
+    {
+      "activity_id": "i159524602",
+      "date": "2026-06-22",
+      "type": "VirtualRide",
+      "name": "Zwift - Recovery Spin",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2915,
+          "avg_power": 156,
+          "max_power": 229,
+          "avg_hr": 111,
+          "max_hr": 127,
+          "avg_cadence": 83.60446,
+          "zone": 2,
+          "training_load": 31.824718,
+          "decoupling": 3.532325
         }
       ]
     }
