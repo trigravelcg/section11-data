@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-27T22:04:51.080226",
+    "last_updated": "2026-06-27T23:15:19.477596",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -143,14 +143,14 @@
       "unavailable": 0
     },
     "phase_context": {
-      "phase": "Build",
+      "phase": "Deload",
       "phase_week": 1,
-      "amber_threshold": 3,
-      "modifier_applied": "build_loosened"
+      "amber_threshold": 2,
+      "modifier_applied": "default"
     },
     "race_week_defers": false,
     "modification": null,
-    "reason": "P3 green light. 5 green, 1 amber (threshold 3), 0 red.",
+    "reason": "P3 green light. 5 green, 1 amber (threshold 2), 0 red.",
     "alarm_refs": []
   },
   "history": {
@@ -287,7 +287,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 1310,
+      "steps": 1518,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -616,18 +616,17 @@
       },
       "dfa_a1_profile": null
     },
-    "consistency_index": 0.83,
+    "consistency_index": 0.8,
     "consistency_details": {
-      "planned_days": 6,
+      "planned_days": 5,
       "completed_days": 6,
-      "matched_days": 5,
+      "matched_days": 4,
       "planned_dates": [
         "2026-06-21",
         "2026-06-22",
         "2026-06-23",
         "2026-06-25",
-        "2026-06-26",
-        "2026-06-27"
+        "2026-06-26"
       ],
       "completed_dates": [
         "2026-06-21",
@@ -639,9 +638,11 @@
       ]
     },
     "phase_detection": {
-      "phase": "Build",
+      "phase": "Deload",
       "confidence": "high",
-      "reason_codes": [],
+      "reason_codes": [
+        "BUILD_HISTORY_REDUCED_LOAD_REBOUND_CONFIRMED"
+      ],
       "basis": {
         "stream_1": {
           "ctl_slope": 1.2,
@@ -650,25 +651,27 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 2.22,
+          "planned_tss_delta": 0.46,
           "hard_sessions_planned": 0,
           "current_week_hard_days_completed": 4,
           "current_week_hard_days_total": 4,
           "race_proximity": null,
           "next_week_load": 1.24,
-          "plan_coverage_current_week": 0.33,
+          "plan_coverage_current_week": 0.22,
           "plan_coverage_next_week": 1.11
         },
         "data_quality": "good",
-        "stream_agreement": null
+        "stream_agreement": false
       },
       "previous_phase": null,
       "phase_duration_weeks": 1,
       "dossier_declared": null,
       "dossier_agreement": null
     },
-    "phase_detected": "Build",
-    "phase_triggers": [],
+    "phase_detected": "Deload",
+    "phase_triggers": [
+      "BUILD_HISTORY_REDUCED_LOAD_REBOUND_CONFIRMED"
+    ],
     "seasonal_context": "Build / Early Race Season",
     "benchmark_indoor": {
       "current_ftp": 260,
@@ -690,13 +693,13 @@
     "p_max": 771,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 53.0,
-    "calculation_timestamp": "2026-06-27T22:04:51.078837",
+    "calculation_timestamp": "2026-06-27T23:15:19.476408",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
       "activities_7d": 11,
       "activities_28d": 38,
-      "planned_workouts_7d": 11,
+      "planned_workouts_7d": 10,
       "ftp_history_days": {
         "indoor": 0,
         "outdoor": 0
@@ -6538,7 +6541,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 1310,
+      "steps": 1518,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -6550,19 +6553,6 @@
     }
   ],
   "planned_workouts": [
-    {
-      "id": 117814964,
-      "date": "2026-06-27",
-      "name": "PV Steeps+",
-      "type": "WORKOUT",
-      "sport_type": "Ride",
-      "planned_tss": 379,
-      "duration_hours": 5.5,
-      "duration_formatted": "5h30m",
-      "workout_summary": null,
-      "has_terrain": false,
-      "description": ""
-    },
     {
       "id": 117815015,
       "date": "2026-06-28",
