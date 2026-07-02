@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-02T12:31:22.680546",
+    "last_updated": "2026-07-02T14:57:53.974602",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -258,10 +258,10 @@
       }
     },
     "current_metrics": {
-      "weight_kg": 74.36,
+      "weight_kg": 74.019,
       "display": {
         "weight": {
-          "value": 163.9,
+          "value": 163.2,
           "unit": "lb"
         }
       },
@@ -285,9 +285,9 @@
       "baevsky_si": null,
       "lactate": null,
       "respiration": null,
-      "body_fat_pct": null,
+      "body_fat_pct": 10.5,
       "abdomen_cm": null,
-      "steps": 88,
+      "steps": 482,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -298,14 +298,14 @@
       "readiness": null
     },
     "weight": {
-      "weight_latest_kg": 74.4,
-      "weight_latest_date": "2026-07-01",
-      "wkg_current": 3.49,
+      "weight_latest_kg": 74.0,
+      "weight_latest_date": "2026-07-02",
+      "wkg_current": 3.51,
       "wkg_ftp_source": "tested",
       "ftp_setting_date": "2026-05-19",
       "display": {
         "weight_latest": {
-          "value": 163.9,
+          "value": 163.2,
           "unit": "lb"
         }
       }
@@ -515,92 +515,92 @@
           "start": "2026-05-22",
           "end": "2026-07-02"
         },
-        "weight_kg": 74.4,
+        "weight_kg": 74.0,
         "weight_source": "wellness_recent",
         "cycling": {
           "anchors": {
             "300s": {
               "actual_watts": 294,
-              "actual_wpkg": 3.95,
+              "actual_wpkg": 3.97,
               "actual_hr": 163,
               "pct_lthr": 101.9,
               "source": "observed_outdoor",
               "coggan_watts": 276,
-              "coggan_wpkg": 3.71,
+              "coggan_wpkg": 3.73,
               "cp_model_watts": 330,
-              "cp_model_wpkg": 4.44,
+              "cp_model_wpkg": 4.46,
               "model_divergence_pct": -10.9
             },
             "600s": {
               "actual_watts": 282,
-              "actual_wpkg": 3.79,
+              "actual_wpkg": 3.81,
               "actual_hr": 161,
               "pct_lthr": 100.6,
               "source": "observed_outdoor",
               "coggan_watts": 252,
-              "coggan_wpkg": 3.39,
+              "coggan_wpkg": 3.41,
               "cp_model_watts": 295,
-              "cp_model_wpkg": 3.97,
+              "cp_model_wpkg": 3.99,
               "model_divergence_pct": -4.4
             },
             "1200s": {
               "actual_watts": 268,
-              "actual_wpkg": 3.6,
+              "actual_wpkg": 3.62,
               "actual_hr": 158,
               "pct_lthr": 98.8,
               "source": "observed_outdoor",
               "coggan_watts": 242,
-              "coggan_wpkg": 3.25,
+              "coggan_wpkg": 3.27,
               "cp_model_watts": 277,
-              "cp_model_wpkg": 3.72,
+              "cp_model_wpkg": 3.74,
               "model_divergence_pct": -3.2
             },
             "1800s": {
               "actual_watts": 255,
-              "actual_wpkg": 3.43,
+              "actual_wpkg": 3.45,
               "actual_hr": 153,
               "pct_lthr": 95.6,
               "source": "observed_outdoor",
               "coggan_watts": 234,
-              "coggan_wpkg": 3.15,
+              "coggan_wpkg": 3.16,
               "cp_model_watts": 272,
-              "cp_model_wpkg": 3.66,
+              "cp_model_wpkg": 3.68,
               "model_divergence_pct": -6.2
             },
             "3600s": {
               "actual_watts": 231,
-              "actual_wpkg": 3.1,
+              "actual_wpkg": 3.12,
               "actual_hr": 147,
               "pct_lthr": 91.9,
               "source": "observed_outdoor",
               "coggan_watts": 224,
-              "coggan_wpkg": 3.01,
+              "coggan_wpkg": 3.03,
               "cp_model_watts": 266,
-              "cp_model_wpkg": 3.58,
+              "cp_model_wpkg": 3.59,
               "model_divergence_pct": -13.2
             },
             "5400s": {
               "actual_watts": 229,
-              "actual_wpkg": 3.08,
+              "actual_wpkg": 3.09,
               "actual_hr": 147,
               "pct_lthr": 91.9,
               "source": "observed_outdoor",
               "coggan_watts": 213,
-              "coggan_wpkg": 2.86,
+              "coggan_wpkg": 2.88,
               "cp_model_watts": 264,
-              "cp_model_wpkg": 3.55,
+              "cp_model_wpkg": 3.57,
               "model_divergence_pct": -13.3
             },
             "7200s": {
               "actual_watts": 216,
-              "actual_wpkg": 2.9,
+              "actual_wpkg": 2.92,
               "actual_hr": 142,
               "pct_lthr": 88.8,
               "source": "observed_outdoor",
               "coggan_watts": 203,
-              "coggan_wpkg": 2.73,
+              "coggan_wpkg": 2.74,
               "cp_model_watts": 263,
-              "cp_model_wpkg": 3.53,
+              "cp_model_wpkg": 3.55,
               "model_divergence_pct": -17.9
             }
           },
@@ -686,7 +686,7 @@
     "p_max": 771,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-02T12:31:22.679342",
+    "calculation_timestamp": "2026-07-02T14:57:53.973361",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -6315,9 +6315,12 @@
     },
     {
       "date": "2026-07-02",
-      "weight_kg": null,
+      "weight_kg": 74.019,
       "display": {
-        "weight": null
+        "weight": {
+          "value": 163.2,
+          "unit": "lb"
+        }
       },
       "resting_hr": 47,
       "hrv_rmssd": 45.0,
@@ -6343,9 +6346,9 @@
       "baevsky_si": null,
       "lactate": null,
       "respiration": null,
-      "body_fat_pct": null,
+      "body_fat_pct": 10.5,
       "abdomen_cm": null,
-      "steps": 88,
+      "steps": 482,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
