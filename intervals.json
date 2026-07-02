@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T22:17:24.982988",
+  "generated_at": "2026-07-02T23:33:53.252868",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -2833,6 +2833,53 @@
           "zone": 1,
           "training_load": 16.078348,
           "decoupling": 5.816529
+        }
+      ]
+    },
+    {
+      "activity_id": "i162223043",
+      "date": "2026-07-02",
+      "type": "VirtualRide",
+      "name": "Z2",
+      "interval_summary": [
+        "1x 3m5s 209w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 544,
+          "avg_power": 155,
+          "max_power": 202,
+          "avg_hr": 115,
+          "max_hr": 127,
+          "avg_cadence": 82.03493,
+          "zone": 2,
+          "training_load": 5.44,
+          "decoupling": -10.467637
+        },
+        {
+          "type": "WORK",
+          "label": "185s@209w77rpm",
+          "duration_secs": 185,
+          "avg_power": 209,
+          "max_power": 236,
+          "avg_hr": 133,
+          "max_hr": 138,
+          "avg_cadence": 76.77838,
+          "zone": 3,
+          "training_load": 3.288889,
+          "decoupling": 4.5068216
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 6758,
+          "avg_power": 175,
+          "max_power": 246,
+          "avg_hr": 126,
+          "max_hr": 137,
+          "avg_cadence": 80.07917,
+          "zone": 2,
+          "training_load": 85.62856
         }
       ]
     }
