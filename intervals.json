@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T14:06:30.824656",
+  "generated_at": "2026-07-05T15:35:59.514240",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3426,6 +3426,83 @@
           "zone": 1,
           "training_load": 0.66262656,
           "decoupling": 100.0
+        }
+      ]
+    },
+    {
+      "activity_id": "i162953991",
+      "date": "2026-07-05",
+      "type": "Swim",
+      "name": "2600y swim",
+      "interval_summary": [
+        "1x 274m 2:09",
+        "2x 914m 2:18",
+        "1x 182m 2:21"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "353s@105bpm24rpm",
+          "duration_secs": 353,
+          "avg_hr": 105,
+          "max_hr": 117,
+          "avg_cadence": 24.439093,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 38,
+          "avg_hr": 102,
+          "max_hr": 109,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1259s@120bpm26rpm",
+          "duration_secs": 1255,
+          "avg_hr": 115,
+          "max_hr": 126,
+          "avg_cadence": 25.444622,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 59,
+          "avg_hr": 102,
+          "max_hr": 116,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1259s@120bpm26rpm",
+          "duration_secs": 1263,
+          "avg_hr": 125,
+          "max_hr": 141,
+          "avg_cadence": 26.818686,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 51,
+          "avg_hr": 120,
+          "max_hr": 136,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "257s@95bpm27rpm",
+          "duration_secs": 257,
+          "avg_hr": 95,
+          "max_hr": 103,
+          "avg_cadence": 27.159533,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 10,
+          "avg_hr": 98,
+          "max_hr": 101,
+          "zone": 1
         }
       ]
     }
