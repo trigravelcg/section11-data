@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T22:14:52.655213",
+  "generated_at": "2026-07-09T23:37:29.795215",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3159,6 +3159,80 @@
           "zone": 2,
           "training_load": 6.8717337,
           "decoupling": 6.8175297
+        }
+      ]
+    },
+    {
+      "activity_id": "i164319677",
+      "date": "2026-07-09",
+      "type": "VirtualRide",
+      "name": "Zwift - Climb Portal: Col du Tourmalet at 100% Elevation in France",
+      "interval_summary": [
+        "1x 6m5s 204w",
+        "1x 7m3s 214w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1472,
+          "avg_power": 189,
+          "max_power": 347,
+          "avg_hr": 130,
+          "max_hr": 150,
+          "avg_cadence": 75.21275,
+          "zone": 2,
+          "training_load": 22.024445,
+          "decoupling": -6.545941
+        },
+        {
+          "type": "WORK",
+          "label": "365s@204w76rpm",
+          "duration_secs": 365,
+          "avg_power": 204,
+          "max_power": 277,
+          "avg_hr": 139,
+          "max_hr": 149,
+          "avg_cadence": 76.2411,
+          "zone": 3,
+          "training_load": 6.126791,
+          "decoupling": -3.4567919
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2198,
+          "avg_power": 215,
+          "max_power": 360,
+          "avg_hr": 142,
+          "max_hr": 155,
+          "avg_cadence": 66.87125,
+          "zone": 3,
+          "training_load": 41.69862,
+          "decoupling": -1.0524917
+        },
+        {
+          "type": "WORK",
+          "label": "423s@214w67rpm",
+          "duration_secs": 423,
+          "avg_power": 214,
+          "max_power": 295,
+          "avg_hr": 147,
+          "max_hr": 154,
+          "avg_cadence": 67.3617,
+          "zone": 3,
+          "training_load": 7.5911107,
+          "decoupling": -2.1236517
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1145,
+          "avg_power": 171,
+          "max_power": 414,
+          "avg_hr": 136,
+          "max_hr": 165,
+          "avg_cadence": 67.170906,
+          "zone": 2,
+          "training_load": 19.051802,
+          "decoupling": 22.994888
         }
       ]
     }
