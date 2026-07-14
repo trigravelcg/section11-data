@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-07-13T23:33:17.521546",
+  "generated_at": "2026-07-14T01:02:03.730842",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i161354401",
-      "date": "2026-06-29",
-      "type": "VirtualRide",
-      "name": "Z1",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3626,
-          "avg_power": 144,
-          "max_power": 195,
-          "avg_hr": 109,
-          "max_hr": 115,
-          "avg_cadence": 80.29757,
-          "zone": 2,
-          "training_load": 31.326696,
-          "decoupling": -1.0438905
-        }
-      ]
-    },
     {
       "activity_id": "i161639767",
       "date": "2026-06-30",
