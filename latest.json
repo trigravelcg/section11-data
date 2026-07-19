@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-19T00:07:08.438853",
+    "last_updated": "2026-07-19T03:49:52.062346",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -644,13 +644,13 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 1.54,
+          "planned_tss_delta": 1.13,
           "hard_sessions_planned": 0,
           "current_week_hard_days_completed": 4,
           "current_week_hard_days_total": 4,
           "race_proximity": null,
           "next_week_load": 1.23,
-          "plan_coverage_current_week": 0.1,
+          "plan_coverage_current_week": 0.2,
           "plan_coverage_next_week": 0.8
         },
         "data_quality": "good",
@@ -684,13 +684,13 @@
     "p_max": 765,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-19T00:07:08.437982",
+    "calculation_timestamp": "2026-07-19T03:49:52.061237",
     "data_quality": {
       "hrv_data_points": 6,
       "rhr_data_points": 6,
       "activities_7d": 7,
       "activities_28d": 38,
-      "planned_workouts_7d": 5,
+      "planned_workouts_7d": 6,
       "ftp_history_days": {
         "indoor": 61,
         "outdoor": 61
@@ -6152,7 +6152,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 786,
+      "steps": 1992,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -6212,9 +6212,22 @@
       "name": "Sunday something",
       "type": "WORKOUT",
       "sport_type": "Ride",
-      "planned_tss": 170,
-      "duration_hours": 2.75,
-      "duration_formatted": "2h45m",
+      "planned_tss": 125,
+      "duration_hours": 2.0,
+      "duration_formatted": "2h",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": ""
+    },
+    {
+      "id": 123695680,
+      "date": "2026-07-19",
+      "name": "2500y",
+      "type": "WORKOUT",
+      "sport_type": "Swim",
+      "planned_tss": 55,
+      "duration_hours": 0.83,
+      "duration_formatted": "50m",
       "workout_summary": null,
       "has_terrain": false,
       "description": ""
