@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-08-04T00:57:27.442361",
+    "last_updated": "2026-08-04T04:10:48.212341",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -690,7 +690,7 @@
     "p_max": 762,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-08-04T00:57:27.441085",
+    "calculation_timestamp": "2026-08-04T04:10:48.211061",
     "data_quality": {
       "hrv_data_points": 6,
       "rhr_data_points": 6,
@@ -6224,7 +6224,7 @@
       "respiration": null,
       "body_fat_pct": 10.3,
       "abdomen_cm": null,
-      "steps": 4232,
+      "steps": 4326,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -6305,27 +6305,27 @@
       "description": ""
     },
     {
-      "id": 123118948,
-      "date": "2026-08-06",
-      "name": "Climb",
-      "type": "WORKOUT",
-      "sport_type": "Ride",
-      "planned_tss": 130,
-      "duration_hours": 2.0,
-      "duration_formatted": "2h",
-      "workout_summary": null,
-      "has_terrain": false,
-      "description": ""
-    },
-    {
       "id": 123118952,
-      "date": "2026-08-07",
+      "date": "2026-08-06",
       "name": "Pre-Race",
       "type": "WORKOUT",
       "sport_type": "Ride",
       "planned_tss": 49,
       "duration_hours": 0.93,
       "duration_formatted": "56m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": ""
+    },
+    {
+      "id": 123118948,
+      "date": "2026-08-07",
+      "name": "Climb",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 130,
+      "duration_hours": 2.0,
+      "duration_formatted": "2h",
       "workout_summary": null,
       "has_terrain": false,
       "description": ""
@@ -6409,27 +6409,27 @@
       "description_preview": null
     },
     {
-      "id": 126496969,
-      "date": "2026-08-13",
-      "name": "Climb",
-      "type": "WORKOUT",
-      "sport_type": "Ride",
-      "planned_tss": 64,
-      "duration_hours": 0.97,
-      "duration_formatted": "58m",
-      "workout_summary": null,
-      "has_terrain": false,
-      "description_preview": null
-    },
-    {
       "id": 126496975,
-      "date": "2026-08-14",
+      "date": "2026-08-13",
       "name": "Pre-race",
       "type": "WORKOUT",
       "sport_type": "Ride",
       "planned_tss": 59,
       "duration_hours": 0.93,
       "duration_formatted": "56m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": null
+    },
+    {
+      "id": 126496969,
+      "date": "2026-08-14",
+      "name": "Climb",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": 64,
+      "duration_hours": 0.97,
+      "duration_formatted": "58m",
       "workout_summary": null,
       "has_terrain": false,
       "description_preview": null
