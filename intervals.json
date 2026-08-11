@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:00:03.255375",
+  "generated_at": "2026-08-11T23:47:09.848302",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3124,6 +3124,27 @@
           "avg_hr": 100,
           "max_hr": 102,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i174925097",
+      "date": "2026-08-11",
+      "type": "VirtualRide",
+      "name": "Sweet spot",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5452,
+          "avg_power": 153,
+          "max_power": 265,
+          "avg_hr": 110,
+          "max_hr": 134,
+          "avg_cadence": 78.71984,
+          "zone": 2,
+          "training_load": 54.94466,
+          "decoupling": 7.8304095
         }
       ]
     }
