@@ -1,79 +1,10 @@
 {
-  "generated_at": "2026-08-11T23:47:09.848302",
+  "generated_at": "2026-08-12T01:10:20.876278",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i170243331",
-      "date": "2026-07-28",
-      "type": "VirtualRide",
-      "name": "Zone 2 #2",
-      "interval_summary": [
-        "1x 3m1s 209w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 544,
-          "avg_power": 158,
-          "max_power": 207,
-          "avg_hr": 110,
-          "max_hr": 132,
-          "avg_cadence": 76.52022,
-          "zone": 2,
-          "training_load": 5.44,
-          "decoupling": -5.049295
-        },
-        {
-          "type": "WORK",
-          "label": "181s@209w74rpm",
-          "duration_secs": 181,
-          "avg_power": 209,
-          "max_power": 226,
-          "avg_hr": 119,
-          "max_hr": 131,
-          "avg_cadence": 73.76796,
-          "zone": 3,
-          "training_load": 3.0974977,
-          "decoupling": 12.319524
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3116,
-          "avg_power": 183,
-          "max_power": 227,
-          "avg_hr": 121,
-          "max_hr": 131,
-          "avg_cadence": 76.28411,
-          "zone": 2,
-          "training_load": 42.14328,
-          "decoupling": -1.6798451
-        }
-      ]
-    },
-    {
-      "activity_id": "i170250437",
-      "date": "2026-07-28",
-      "type": "VirtualRide",
-      "name": "Zwift - Z2 Steady 70% \u2013 Aerobic",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2434,
-          "avg_power": 168,
-          "max_power": 267,
-          "avg_hr": 114,
-          "max_hr": 126,
-          "avg_cadence": 74.615036,
-          "zone": 2,
-          "training_load": 28.436028,
-          "decoupling": -5.1824474
-        }
-      ]
-    },
     {
       "activity_id": "i170616812",
       "date": "2026-07-29",
