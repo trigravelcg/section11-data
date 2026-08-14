@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:58:01.663230",
+  "generated_at": "2026-08-14T23:20:19.572214",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3066,6 +3066,54 @@
           "zone": 1,
           "training_load": 1.1925952,
           "decoupling": -27.843132
+        }
+      ]
+    },
+    {
+      "activity_id": "i175922958",
+      "date": "2026-08-14",
+      "type": "VirtualRide",
+      "name": "Climb",
+      "interval_summary": [
+        "1x 4m58s 229w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1025,
+          "avg_power": 162,
+          "max_power": 387,
+          "avg_hr": 117,
+          "max_hr": 133,
+          "avg_cadence": 85.454636,
+          "zone": 2,
+          "training_load": 11.579852,
+          "decoupling": -4.0603
+        },
+        {
+          "type": "WORK",
+          "label": "298s@229w78rpm",
+          "duration_secs": 298,
+          "avg_power": 229,
+          "max_power": 260,
+          "avg_hr": 136,
+          "max_hr": 141,
+          "avg_cadence": 77.94966,
+          "zone": 3,
+          "training_load": 6.1276183,
+          "decoupling": 4.4950004
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2659,
+          "avg_power": 171,
+          "max_power": 326,
+          "avg_hr": 121,
+          "max_hr": 140,
+          "avg_cadence": 76.09377,
+          "zone": 2,
+          "training_load": 30.062597,
+          "decoupling": 2.0179613
         }
       ]
     }
