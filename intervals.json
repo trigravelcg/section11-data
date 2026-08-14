@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:20:19.572214",
+  "generated_at": "2026-08-14T23:44:09.299136",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3114,6 +3114,27 @@
           "zone": 2,
           "training_load": 30.062597,
           "decoupling": 2.0179613
+        }
+      ]
+    },
+    {
+      "activity_id": "i175924777",
+      "date": "2026-08-14",
+      "type": "VirtualRide",
+      "name": "Zwift - Loop de loop de loop in Paris",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 924,
+          "avg_power": 138,
+          "max_power": 248,
+          "avg_hr": 106,
+          "max_hr": 117,
+          "avg_cadence": 74.31493,
+          "zone": 1,
+          "training_load": 7.4658546,
+          "decoupling": 1.5107075
         }
       ]
     }
