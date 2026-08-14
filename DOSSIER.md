@@ -33,19 +33,19 @@
 
 **Training Philosophy:** Joe Friel Masters approach — **2 weeks up, 1 week back** cycle.
 
-## 4. Current Thresholds & Power Zones (FTP 260W)
+## 4. Current Thresholds & Power Zones (FTP 265W)
 
 **Power Zones (Coggan-based):**
 
 | Zone | Name                  | % of FTP     | Power Range     | Purpose |
 |------|-----------------------|--------------|-----------------|---------|
-| Z1   | Active Recovery       | <55%        | <143W           | Recovery, easy spins |
-| Z2   | Endurance             | 56-75%      | 146-195W        | Aerobic base, long rides |
-| Z3   | Tempo                 | 76-90%      | 198-234W        | Sustained effort, tempo |
-| Z4   | Sweet Spot / Threshold| 91-105%     | 237-273W        | Threshold development |
-| Z5   | VO2Max                | 106-120%    | 276-312W        | VO2Max intervals |
-| Z6   | Anaerobic Capacity    | 121-150%    | 315-390W        | Short anaerobic efforts |
-| Z7   | Neuromuscular Power   | >150%       | >390W           | Sprints, attacks |
+| Z1   | Active Recovery       | <55%        | <146W           | Recovery, easy spins |
+| Z2   | Endurance             | 56-75%      | 148-199W        | Aerobic base, long rides |
+| Z3   | Tempo                 | 76-90%      | 201-239W        | Sustained effort, tempo |
+| Z4   | Sweet Spot / Threshold| 91-105%     | 240-278W        | Threshold development |
+| Z5   | VO2Max                | 106-120%    | 280-319W        | VO2Max intervals |
+| Z6   | Anaerobic Capacity    | 121-150%    | 320-398W        | Short anaerobic efforts |
+| Z7   | Neuromuscular Power   | >150%       | >398W           | Sprints, attacks |
 
 - **eFTP:** 264W
 - **Preferred Zone Reference:** Power first, Heart Rate as backup
