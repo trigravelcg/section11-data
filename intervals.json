@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:24:30.998976",
+  "generated_at": "2026-08-17T23:43:51.007593",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3763,6 +3763,27 @@
           "zone": 2,
           "training_load": 36.305206,
           "decoupling": -1.1985947
+        }
+      ]
+    },
+    {
+      "activity_id": "i176950779",
+      "date": "2026-08-17",
+      "type": "VirtualRide",
+      "name": "Zwift - 60 minute Active Recovery",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3804,
+          "avg_power": 140,
+          "max_power": 211,
+          "avg_hr": 106,
+          "max_hr": 114,
+          "avg_cadence": 80.44282,
+          "zone": 1,
+          "training_load": 29.87791,
+          "decoupling": 1.4772507
         }
       ]
     }
