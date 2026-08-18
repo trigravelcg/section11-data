@@ -1,87 +1,10 @@
 {
-  "generated_at": "2026-08-17T23:58:35.217890",
+  "generated_at": "2026-08-18T01:14:17.273551",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i172213652",
-      "date": "2026-08-03",
-      "type": "Swim",
-      "name": "Recovery swim",
-      "interval_summary": [
-        "1x 274m 2:02",
-        "2x 914m 2:11",
-        "1x 182m 2:16"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "336s@110bpm26rpm",
-          "duration_secs": 336,
-          "avg_hr": 110,
-          "max_hr": 124,
-          "avg_cadence": 26.202381,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 32,
-          "avg_hr": 105,
-          "max_hr": 110,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1198s@127bpm28rpm",
-          "duration_secs": 1188,
-          "avg_hr": 122,
-          "max_hr": 136,
-          "avg_cadence": 27.297138,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 30,
-          "avg_hr": 114,
-          "max_hr": 118,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1198s@127bpm28rpm",
-          "duration_secs": 1207,
-          "avg_hr": 132,
-          "max_hr": 144,
-          "avg_cadence": 27.835129,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 32,
-          "avg_hr": 126,
-          "max_hr": 136,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "248s@135bpm26rpm",
-          "duration_secs": 248,
-          "avg_hr": 135,
-          "max_hr": 142,
-          "avg_cadence": 25.887096,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 24,
-          "avg_hr": 125,
-          "max_hr": 135,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i172548070",
       "date": "2026-08-04",
