@@ -1,58 +1,10 @@
 {
-  "generated_at": "2026-08-20T23:47:22.998705",
+  "generated_at": "2026-08-21T00:46:44.834160",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i173225624",
-      "date": "2026-08-06",
-      "type": "VirtualRide",
-      "name": "La Super Planche des Belles Filles",
-      "interval_summary": [
-        "1x 9m3s 202w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 988,
-          "avg_power": 150,
-          "max_power": 250,
-          "avg_hr": 110,
-          "max_hr": 128,
-          "avg_cadence": 66.63489,
-          "zone": 2,
-          "training_load": 10.016697,
-          "decoupling": -2.8255963
-        },
-        {
-          "type": "WORK",
-          "label": "543s@202w73rpm",
-          "duration_secs": 543,
-          "avg_power": 202,
-          "max_power": 255,
-          "avg_hr": 128,
-          "max_hr": 133,
-          "avg_cadence": 73.37937,
-          "zone": 3,
-          "training_load": 8.851109,
-          "decoupling": -0.07365896
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2831,
-          "avg_power": 184,
-          "max_power": 323,
-          "avg_hr": 124,
-          "max_hr": 145,
-          "avg_cadence": 71.420975,
-          "zone": 2,
-          "training_load": 40.621025,
-          "decoupling": 2.4675553
-        }
-      ]
-    },
     {
       "activity_id": "i173559731",
       "date": "2026-08-07",
