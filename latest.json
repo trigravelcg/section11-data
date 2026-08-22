@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-08-22T03:12:34.546930",
+    "last_updated": "2026-08-22T03:55:08.764606",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -133,7 +133,7 @@
       },
       "tsb": {
         "status": "green",
-        "value": 24.2
+        "value": 28.8
       }
     },
     "signal_summary": {
@@ -206,10 +206,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 115.76,
-      "atl": 91.54,
-      "tsb": 24.22,
-      "ramp_rate": -1.05,
+      "ctl": 114.64,
+      "atl": 85.88,
+      "tsb": 28.76,
+      "ramp_rate": -2.18,
       "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
     },
     "thresholds": {
@@ -601,18 +601,17 @@
       },
       "dfa_a1_profile": null
     },
-    "consistency_index": 0.86,
+    "consistency_index": 0.83,
     "consistency_details": {
-      "planned_days": 7,
+      "planned_days": 6,
       "completed_days": 6,
-      "matched_days": 6,
+      "matched_days": 5,
       "planned_dates": [
         "2026-08-16",
         "2026-08-17",
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21",
         "2026-08-22"
       ],
       "completed_dates": [
@@ -676,13 +675,13 @@
     "p_max": 755,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-08-22T03:12:34.545656",
+    "calculation_timestamp": "2026-08-22T03:55:08.763351",
     "data_quality": {
       "hrv_data_points": 6,
       "rhr_data_points": 6,
       "activities_7d": 7,
       "activities_28d": 35,
-      "planned_workouts_7d": 9,
+      "planned_workouts_7d": 8,
       "ftp_history_days": {
         "indoor": 95,
         "outdoor": 95
@@ -5960,7 +5959,7 @@
       "respiration": null,
       "body_fat_pct": 9.9,
       "abdomen_cm": null,
-      "steps": 3345,
+      "steps": 3776,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
