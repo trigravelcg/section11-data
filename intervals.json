@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T11:02:12.628956",
+  "generated_at": "2026-08-29T15:36:07.393615",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -2528,6 +2528,27 @@
           "zone": 2,
           "training_load": 46.559322,
           "decoupling": 2.5808911
+        }
+      ]
+    },
+    {
+      "activity_id": "i181035892",
+      "date": "2026-08-29",
+      "type": "Ride",
+      "name": "Day 1",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 6589,
+          "avg_power": 139,
+          "max_power": 528,
+          "avg_hr": 126,
+          "max_hr": 159,
+          "avg_cadence": 59.309166,
+          "zone": 1,
+          "training_load": 75.8248,
+          "decoupling": -8.22213
         }
       ]
     }
