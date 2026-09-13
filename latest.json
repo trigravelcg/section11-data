@@ -65,12 +65,12 @@
       "total_training_hours": 8.36,
       "total_training_formatted": "8h21m",
       "total_activities": 6,
-      "total_tss": 342
+      "total_tss": 254
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-09-13T18:16:13.112050",
+    "last_updated": "2026-09-13T20:59:12.954491",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -124,7 +124,7 @@
       },
       "acwr": {
         "status": "green",
-        "value": 0.52
+        "value": 0.4
       },
       "ri": {
         "status": "green",
@@ -133,7 +133,7 @@
       },
       "tsb": {
         "status": "green",
-        "value": 25.8
+        "value": 35.4
       }
     },
     "signal_summary": {
@@ -193,7 +193,7 @@
       "Workout": {
         "duration_decimal_hours": 2.78,
         "count": 2,
-        "tss": 88,
+        "tss": 0,
         "distance_km": 0.0,
         "display": {
           "distance": {
@@ -206,10 +206,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 109.25,
-      "atl": 83.45,
-      "tsb": 25.8,
-      "ramp_rate": -10.59,
+      "ctl": 107.18,
+      "atl": 71.74,
+      "tsb": 35.44,
+      "ramp_rate": -12.66,
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
@@ -275,7 +275,7 @@
       "respiration": null,
       "body_fat_pct": 10.8,
       "abdomen_cm": null,
-      "steps": 3389,
+      "steps": 5555,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -316,20 +316,20 @@
     "rhr_baseline_28d": 48,
     "latest_hrv": 32.0,
     "latest_rhr": 50,
-    "acwr": 0.52,
+    "acwr": 0.4,
     "acwr_interpretation": "undertraining",
-    "monotony": 0.84,
-    "monotony_interpretation": "normal (primary sport 0.63, total 0.84 inflated by multi-sport)",
+    "monotony": 0.63,
+    "monotony_interpretation": "normal",
     "primary_sport": "cycling",
     "primary_sport_monotony": 0.63,
     "primary_sport_tss_7d": 254.0,
     "effective_monotony": 0.63,
-    "multi_sport_detected": true,
-    "strain": 287.0,
-    "stress_tolerance": 3.4,
-    "load_recovery_ratio": 3.7,
-    "tss_7d_total": 342.0,
-    "tss_28d_total": 2611.0,
+    "multi_sport_detected": false,
+    "strain": 160.0,
+    "stress_tolerance": 2.5,
+    "load_recovery_ratio": 2.7,
+    "tss_7d_total": 254.0,
+    "tss_28d_total": 2523.0,
     "zone_distribution_7d": {
       "z1_hours": 5.12,
       "z2_hours": 1.83,
@@ -672,7 +672,7 @@
     "p_max": 803,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-09-13T18:16:13.110745",
+    "calculation_timestamp": "2026-09-13T20:59:12.952124",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -693,8 +693,8 @@
       "name": "Cardio",
       "duration_hours": 1.48,
       "distance_km": 0.0,
-      "tss": 50,
-      "intensity_factor": 58.17844,
+      "tss": 0,
+      "intensity_factor": 0.0,
       "avg_power": null,
       "normalized_power": null,
       "avg_hr": 116,
@@ -753,8 +753,8 @@
       "name": "Cardio",
       "duration_hours": 1.3,
       "distance_km": 0.0,
-      "tss": 38,
-      "intensity_factor": 54.007816,
+      "tss": 0,
+      "intensity_factor": 0.0,
       "avg_power": null,
       "normalized_power": null,
       "avg_hr": 111,
@@ -5627,7 +5627,7 @@
       "respiration": null,
       "body_fat_pct": 10.8,
       "abdomen_cm": null,
-      "steps": 3389,
+      "steps": 5555,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -5650,7 +5650,7 @@
   "weekly_summary": {
     "total_training_hours": 8.36,
     "total_training_formatted": "8h21m",
-    "total_tss": 342,
+    "total_tss": 254,
     "activities_count": 6,
     "avg_hrv": 34.4,
     "avg_resting_hr": 49.9
