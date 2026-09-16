@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:48:23.130420",
+  "generated_at": "2026-09-16T23:58:58.717095",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1444,6 +1444,27 @@
           "zone": 2,
           "training_load": 44.906006,
           "decoupling": 3.3430877
+        }
+      ]
+    },
+    {
+      "activity_id": "i187471362",
+      "date": "2026-09-16",
+      "type": "VirtualRide",
+      "name": "Zwift - Group Ride: Bikealicious Wednesday Worlds (E)",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4867,
+          "avg_power": 162,
+          "max_power": 357,
+          "avg_hr": 121,
+          "max_hr": 137,
+          "avg_cadence": 80.14403,
+          "zone": 2,
+          "training_load": 54.268764,
+          "decoupling": 5.732856
         }
       ]
     }
