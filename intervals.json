@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:33:13.627063",
+  "generated_at": "2026-09-17T23:40:14.978117",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1039,6 +1039,83 @@
           "zone": 2,
           "training_load": 54.268764,
           "decoupling": 5.732856
+        }
+      ]
+    },
+    {
+      "activity_id": "i187790058",
+      "date": "2026-09-17",
+      "type": "Swim",
+      "name": "Recovery swim 2x1000",
+      "interval_summary": [
+        "1x 274m 2:09",
+        "2x 914m 2:19",
+        "1x 182m 2:28"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "355s@111bpm25rpm",
+          "duration_secs": 355,
+          "avg_hr": 111,
+          "max_hr": 122,
+          "avg_cadence": 24.645071,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 46,
+          "avg_hr": 105,
+          "max_hr": 115,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1267s@121bpm27rpm",
+          "duration_secs": 1247,
+          "avg_hr": 118,
+          "max_hr": 130,
+          "avg_cadence": 26.391338,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 30,
+          "avg_hr": 118,
+          "max_hr": 125,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1267s@121bpm27rpm",
+          "duration_secs": 1287,
+          "avg_hr": 124,
+          "max_hr": 138,
+          "avg_cadence": 26.874903,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 42,
+          "avg_hr": 113,
+          "max_hr": 123,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "270s@116bpm27rpm",
+          "duration_secs": 270,
+          "avg_hr": 116,
+          "max_hr": 128,
+          "avg_cadence": 26.540741,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 21,
+          "avg_hr": 108,
+          "max_hr": 115,
+          "zone": 1
         }
       ]
     }
