@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:43:45.105578",
+  "generated_at": "2026-09-22T23:50:17.037932",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -932,6 +932,54 @@
           "zone": 1,
           "training_load": 0.50505716,
           "decoupling": 100.0
+        }
+      ]
+    },
+    {
+      "activity_id": "i189378906",
+      "date": "2026-09-22",
+      "type": "VirtualRide",
+      "name": "Zwift - Zone 2 #2",
+      "interval_summary": [
+        "1x 4m57s 225w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1026,
+          "avg_power": 162,
+          "max_power": 382,
+          "avg_hr": 118,
+          "max_hr": 134,
+          "avg_cadence": 81.75243,
+          "zone": 2,
+          "training_load": 11.59115,
+          "decoupling": -0.7306363
+        },
+        {
+          "type": "WORK",
+          "label": "297s@225w76rpm",
+          "duration_secs": 297,
+          "avg_power": 225,
+          "max_power": 249,
+          "avg_hr": 139,
+          "max_hr": 144,
+          "avg_cadence": 76.3266,
+          "zone": 3,
+          "training_load": 5.8421397,
+          "decoupling": 4.2090883
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2290,
+          "avg_power": 171,
+          "max_power": 301,
+          "avg_hr": 124,
+          "max_hr": 142,
+          "avg_cadence": 81.3179,
+          "zone": 2,
+          "training_load": 28.02188,
+          "decoupling": 1.8149999
         }
       ]
     }
