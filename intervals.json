@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:40:35.989581",
+  "generated_at": "2026-09-27T17:58:42.416298",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -835,6 +835,140 @@
           "zone": 1,
           "training_load": 21.28787,
           "decoupling": -0.3215509
+        }
+      ]
+    },
+    {
+      "activity_id": "i190942696",
+      "date": "2026-09-27",
+      "type": "Ride",
+      "name": "Los Angeles County Road Cycling",
+      "interval_summary": [
+        "1x 20s 518w",
+        "1x 24s 411w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2030,
+          "avg_power": 178,
+          "max_power": 458,
+          "avg_hr": 133,
+          "max_hr": 151,
+          "avg_cadence": 79.70662,
+          "zone": 2,
+          "training_load": 31.42714,
+          "decoupling": 6.8421116
+        },
+        {
+          "type": "WORK",
+          "label": "20s@518w73rpm",
+          "duration_secs": 20,
+          "avg_power": 518,
+          "max_power": 621,
+          "avg_hr": 141,
+          "max_hr": 151,
+          "avg_cadence": 73.15,
+          "zone": 7,
+          "training_load": 0.6978284,
+          "decoupling": 16.031706
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 846,
+          "avg_power": 186,
+          "max_power": 672,
+          "avg_hr": 140,
+          "max_hr": 158,
+          "avg_cadence": 78.56073,
+          "zone": 2,
+          "training_load": 10.309393
+        },
+        {
+          "type": "WORK",
+          "label": "24s@411w75rpm",
+          "duration_secs": 24,
+          "avg_power": 411,
+          "max_power": 481,
+          "avg_hr": 136,
+          "max_hr": 147,
+          "avg_cadence": 74.875,
+          "zone": 7,
+          "training_load": 0.918201,
+          "decoupling": 23.479692
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3238,
+          "avg_power": 177,
+          "max_power": 678,
+          "avg_hr": 132,
+          "max_hr": 156,
+          "avg_cadence": 75.46721,
+          "zone": 2,
+          "training_load": 52.764446,
+          "decoupling": -9.286192
+        }
+      ]
+    },
+    {
+      "activity_id": "i190885726",
+      "date": "2026-09-27",
+      "type": "Swim",
+      "name": "2250 Recovery Swim: 1650 MS",
+      "interval_summary": [
+        "1x 365m 2:07",
+        "1x 1508m 2:12",
+        "1x 182m 2:22"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "464s@118bpm24rpm",
+          "duration_secs": 464,
+          "avg_hr": 118,
+          "max_hr": 126,
+          "avg_cadence": 23.993534,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 44,
+          "avg_hr": 113,
+          "max_hr": 127,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1997s@133bpm27rpm",
+          "duration_secs": 1997,
+          "avg_hr": 133,
+          "max_hr": 146,
+          "avg_cadence": 26.699549,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 39,
+          "avg_hr": 129,
+          "max_hr": 142,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "260s@132bpm24rpm",
+          "duration_secs": 260,
+          "avg_hr": 132,
+          "max_hr": 143,
+          "avg_cadence": 24.426924,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 25,
+          "avg_hr": 133,
+          "max_hr": 139,
+          "zone": 1
         }
       ]
     }
