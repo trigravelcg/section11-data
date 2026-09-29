@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:20:56.617664",
+  "generated_at": "2026-09-29T23:50:32.674714",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -969,6 +969,79 @@
           "avg_hr": 133,
           "max_hr": 139,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i191716375",
+      "date": "2026-09-29",
+      "type": "VirtualRide",
+      "name": "Zwift - Aerobic Flow",
+      "interval_summary": [
+        "2x 6m14s 204w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1660,
+          "avg_power": 170,
+          "max_power": 258,
+          "avg_hr": 126,
+          "max_hr": 148,
+          "avg_cadence": 81.31205,
+          "zone": 2,
+          "training_load": 20.804335,
+          "decoupling": 0.32892552
+        },
+        {
+          "type": "WORK",
+          "label": "374s@204w77rpm",
+          "duration_secs": 382,
+          "avg_power": 203,
+          "max_power": 239,
+          "avg_hr": 139,
+          "max_hr": 146,
+          "avg_cadence": 79.55235,
+          "zone": 3,
+          "training_load": 6.2267466,
+          "decoupling": -2.3241494
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1184,
+          "avg_power": 177,
+          "max_power": 289,
+          "avg_hr": 128,
+          "max_hr": 144,
+          "avg_cadence": 78.794685,
+          "zone": 2,
+          "training_load": 14.425664,
+          "decoupling": -2.7594473
+        },
+        {
+          "type": "WORK",
+          "label": "374s@204w77rpm",
+          "duration_secs": 366,
+          "avg_power": 204,
+          "max_power": 239,
+          "avg_hr": 133,
+          "max_hr": 139,
+          "avg_cadence": 75.38798,
+          "zone": 3,
+          "training_load": 6.024863,
+          "decoupling": -1.5133198
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1937,
+          "avg_power": 167,
+          "max_power": 252,
+          "avg_hr": 124,
+          "max_hr": 137,
+          "avg_cadence": 77.8286,
+          "zone": 2,
+          "training_load": 23.379711,
+          "decoupling": 2.9978485
         }
       ]
     }
