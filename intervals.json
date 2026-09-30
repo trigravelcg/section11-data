@@ -1,58 +1,10 @@
 {
-  "generated_at": "2026-09-29T23:50:32.674714",
+  "generated_at": "2026-09-30T00:26:13.396310",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i187131797",
-      "date": "2026-09-15",
-      "type": "VirtualRide",
-      "name": "Zwift - Riders Choice",
-      "interval_summary": [
-        "1x 3m 210w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 559,
-          "avg_power": 156,
-          "max_power": 232,
-          "avg_hr": 114,
-          "max_hr": 130,
-          "avg_cadence": 77.958855,
-          "zone": 2,
-          "training_load": 5.59,
-          "decoupling": -5.5851183
-        },
-        {
-          "type": "WORK",
-          "label": "180s@210w75rpm",
-          "duration_secs": 180,
-          "avg_power": 210,
-          "max_power": 248,
-          "avg_hr": 132,
-          "max_hr": 137,
-          "avg_cadence": 74.89445,
-          "zone": 3,
-          "training_load": 3.0803845,
-          "decoupling": 3.6178787
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3707,
-          "avg_power": 169,
-          "max_power": 267,
-          "avg_hr": 125,
-          "max_hr": 138,
-          "avg_cadence": 74.6539,
-          "zone": 2,
-          "training_load": 44.906006,
-          "decoupling": 3.3430877
-        }
-      ]
-    },
     {
       "activity_id": "i187471362",
       "date": "2026-09-16",
