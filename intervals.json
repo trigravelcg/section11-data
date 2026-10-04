@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:25:06.580366",
+  "generated_at": "2026-10-04T18:06:32.292936",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1097,6 +1097,54 @@
           "avg_hr": 111,
           "max_hr": 117,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i193509358",
+      "date": "2026-10-04",
+      "type": "Ride",
+      "name": "Los Angeles County Road Cycling",
+      "interval_summary": [
+        "1x 1m58s 240w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5575,
+          "avg_power": 166,
+          "max_power": 897,
+          "avg_hr": 131,
+          "max_hr": 152,
+          "avg_cadence": 75.13061,
+          "zone": 2,
+          "training_load": 80.43952,
+          "decoupling": -0.07943165
+        },
+        {
+          "type": "WORK",
+          "label": "118s@240w71rpm",
+          "duration_secs": 118,
+          "avg_power": 240,
+          "max_power": 312,
+          "avg_hr": 143,
+          "max_hr": 152,
+          "avg_cadence": 70.51695,
+          "zone": 4,
+          "training_load": 2.5557566,
+          "decoupling": 2.4732683
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 33,
+          "avg_power": 44,
+          "max_power": 223,
+          "avg_hr": 148,
+          "max_hr": 153,
+          "avg_cadence": 35.60606,
+          "zone": 1,
+          "training_load": 0.49123374,
+          "decoupling": 100.0
         }
       ]
     }
