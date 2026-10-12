@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:23:14.582736",
+  "generated_at": "2026-10-12T23:19:05.823615",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1714,6 +1714,27 @@
           "zone": 2,
           "training_load": 51.920258,
           "decoupling": 4.7475986
+        }
+      ]
+    },
+    {
+      "activity_id": "i196639092",
+      "date": "2026-10-12",
+      "type": "VirtualRide",
+      "name": "Zwift - Easy Active Recovery",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3616,
+          "avg_power": 168,
+          "max_power": 226,
+          "avg_hr": 124,
+          "max_hr": 139,
+          "avg_cadence": 84.05421,
+          "zone": 2,
+          "training_load": 41.336338,
+          "decoupling": -0.3409987
         }
       ]
     }
