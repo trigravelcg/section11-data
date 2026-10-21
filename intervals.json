@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:53:06.960794",
+  "generated_at": "2026-10-21T23:49:17.781557",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -2491,6 +2491,54 @@
           "zone": 2,
           "training_load": 36.70713,
           "decoupling": -1.6847548
+        }
+      ]
+    },
+    {
+      "activity_id": "i200193075",
+      "date": "2026-10-21",
+      "type": "VirtualRide",
+      "name": "Zwift - Aerobic Flow",
+      "interval_summary": [
+        "1x 6m11s 204w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3113,
+          "avg_power": 177,
+          "max_power": 260,
+          "avg_hr": 126,
+          "max_hr": 143,
+          "avg_cadence": 84.4311,
+          "zone": 2,
+          "training_load": 41.237,
+          "decoupling": -6.0666184
+        },
+        {
+          "type": "WORK",
+          "label": "371s@204w83rpm",
+          "duration_secs": 371,
+          "avg_power": 204,
+          "max_power": 248,
+          "avg_hr": 133,
+          "max_hr": 138,
+          "avg_cadence": 82.765495,
+          "zone": 3,
+          "training_load": 6.1071696,
+          "decoupling": -2.4677067
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1926,
+          "avg_power": 168,
+          "max_power": 246,
+          "avg_hr": 123,
+          "max_hr": 140,
+          "avg_cadence": 82.9621,
+          "zone": 2,
+          "training_load": 23.294914,
+          "decoupling": 1.646536
         }
       ]
     }
