@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-10-26T23:20:15.069136",
+  "generated_at": "2026-10-27T00:36:44.449576",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i196639092",
-      "date": "2026-10-12",
-      "type": "VirtualRide",
-      "name": "Zwift - Easy Active Recovery",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3616,
-          "avg_power": 168,
-          "max_power": 226,
-          "avg_hr": 124,
-          "max_hr": 139,
-          "avg_cadence": 84.05421,
-          "zone": 2,
-          "training_load": 41.336338,
-          "decoupling": -0.3409987
-        }
-      ]
-    },
     {
       "activity_id": "i197008797",
       "date": "2026-10-13",
@@ -2381,6 +2360,27 @@
           "zone": 2,
           "training_load": 48.612316,
           "decoupling": -3.613784
+        }
+      ]
+    },
+    {
+      "activity_id": "i202113405",
+      "date": "2026-10-26",
+      "type": "VirtualRide",
+      "name": "Zwift - Z1-Z2 Recovery Spin",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2890,
+          "avg_power": 160,
+          "max_power": 231,
+          "avg_hr": 118,
+          "max_hr": 134,
+          "avg_cadence": 81.01661,
+          "zone": 2,
+          "training_load": 31.848244,
+          "decoupling": 3.2026474
         }
       ]
     }
