@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:56:02.006021",
+  "generated_at": "2026-11-01T18:42:25.615555",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -2244,6 +2244,80 @@
           "zone": 2,
           "training_load": 12.326493,
           "decoupling": -0.11838384
+        }
+      ]
+    },
+    {
+      "activity_id": "i204482356",
+      "date": "2026-11-01",
+      "type": "GravelRide",
+      "name": "Los Angeles County Gravel/Unpaved Cycling",
+      "interval_summary": [
+        "1x 13s 419w",
+        "1x 1m47s 246w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2037,
+          "avg_power": 156,
+          "max_power": 529,
+          "avg_hr": 118,
+          "max_hr": 142,
+          "avg_cadence": 72.31492,
+          "zone": 2,
+          "training_load": 25.089079,
+          "decoupling": 4.663705
+        },
+        {
+          "type": "WORK",
+          "label": "13s@419w66rpm",
+          "duration_secs": 13,
+          "avg_power": 419,
+          "max_power": 453,
+          "avg_hr": 142,
+          "max_hr": 145,
+          "avg_cadence": 66.0,
+          "zone": 7,
+          "training_load": 0.51023495,
+          "decoupling": 3.5263448
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 949,
+          "avg_power": 150,
+          "max_power": 482,
+          "avg_hr": 119,
+          "max_hr": 149,
+          "avg_cadence": 70.785416,
+          "zone": 2,
+          "training_load": 11.160216,
+          "decoupling": -8.869153
+        },
+        {
+          "type": "WORK",
+          "label": "107s@246w74rpm",
+          "duration_secs": 107,
+          "avg_power": 246,
+          "max_power": 302,
+          "avg_hr": 134,
+          "max_hr": 145,
+          "avg_cadence": 73.700935,
+          "zone": 4,
+          "training_load": 2.4378781,
+          "decoupling": 4.857551
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3116,
+          "avg_power": 166,
+          "max_power": 405,
+          "avg_hr": 119,
+          "max_hr": 145,
+          "avg_cadence": 72.46803,
+          "zone": 2,
+          "training_load": 41.515697,
+          "decoupling": -12.173636
         }
       ]
     }
