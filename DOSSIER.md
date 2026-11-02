@@ -54,7 +54,8 @@
 
 **On-Bike Fueling**
 
-- **Drink Mix:** EFS-Pro — **2 scoops per 25oz bottle = 240 calories**
+- **Drink Mix Option 1:** EFS-Pro — **2 scoops per 25oz bottle = 240 calories**
+- **Drink Mix Option 2:** Formula 369 - **2 scoops per 2oz bottle = 240 calories**
 - **Gels:** First Endurance Liquid Shot (120 calories each)
   - Non-caffeinated for first half of ride
   - Caffeinated versions for later in longer events
