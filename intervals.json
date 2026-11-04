@@ -1,84 +1,10 @@
 {
-  "generated_at": "2026-11-03T21:44:47.168244",
+  "generated_at": "2026-11-04T01:32:06.084174",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i199774673",
-      "date": "2026-10-20",
-      "type": "VirtualRide",
-      "name": "Zwift - Endurance #2",
-      "interval_summary": [
-        "1x 56s 291w",
-        "1x 4m8s 240w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 426,
-          "avg_power": 154,
-          "max_power": 276,
-          "avg_hr": 114,
-          "max_hr": 128,
-          "avg_cadence": 81.643196,
-          "zone": 2,
-          "training_load": 4.100762,
-          "decoupling": -2.600328
-        },
-        {
-          "type": "WORK",
-          "label": "56s@291w80rpm",
-          "duration_secs": 56,
-          "avg_power": 291,
-          "max_power": 317,
-          "avg_hr": 131,
-          "max_hr": 142,
-          "avg_cadence": 79.53571,
-          "zone": 5,
-          "training_load": 1.6028701,
-          "decoupling": 9.234238
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 293,
-          "avg_power": 161,
-          "max_power": 275,
-          "avg_hr": 123,
-          "max_hr": 142,
-          "avg_cadence": 82.97611,
-          "zone": 2,
-          "training_load": 3.6309469,
-          "decoupling": -44.73299
-        },
-        {
-          "type": "WORK",
-          "label": "248s@240w75rpm",
-          "duration_secs": 248,
-          "avg_power": 240,
-          "max_power": 273,
-          "avg_hr": 143,
-          "max_hr": 149,
-          "avg_cadence": 74.689514,
-          "zone": 4,
-          "training_load": 5.6034207,
-          "decoupling": 3.0424337
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2741,
-          "avg_power": 175,
-          "max_power": 429,
-          "avg_hr": 126,
-          "max_hr": 148,
-          "avg_cadence": 82.340385,
-          "zone": 2,
-          "training_load": 36.70713,
-          "decoupling": -1.6847548
-        }
-      ]
-    },
     {
       "activity_id": "i200193075",
       "date": "2026-10-21",
@@ -1556,6 +1482,80 @@
           "zone": 2,
           "training_load": 52.220127,
           "decoupling": 6.9531913
+        }
+      ]
+    },
+    {
+      "activity_id": "i205487175",
+      "date": "2026-11-03",
+      "type": "VirtualRide",
+      "name": "Zwift - Pacific Pursuit in Watopia",
+      "interval_summary": [
+        "1x 6m6s 205w",
+        "1x 12m48s 207w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1269,
+          "avg_power": 180,
+          "max_power": 250,
+          "avg_hr": 128,
+          "max_hr": 140,
+          "avg_cadence": 82.890465,
+          "zone": 2,
+          "training_load": 16.810072,
+          "decoupling": -1.643292
+        },
+        {
+          "type": "WORK",
+          "label": "366s@205w83rpm",
+          "duration_secs": 366,
+          "avg_power": 205,
+          "max_power": 259,
+          "avg_hr": 140,
+          "max_hr": 145,
+          "avg_cadence": 82.79781,
+          "zone": 3,
+          "training_load": 6.1435766,
+          "decoupling": 2.5182505
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 92,
+          "avg_power": 174,
+          "max_power": 221,
+          "avg_hr": 136,
+          "max_hr": 140,
+          "avg_cadence": 84.28261,
+          "zone": 2,
+          "training_load": 1.1530113,
+          "decoupling": -17.740938
+        },
+        {
+          "type": "WORK",
+          "label": "768s@207w81rpm",
+          "duration_secs": 768,
+          "avg_power": 207,
+          "max_power": 279,
+          "avg_hr": 141,
+          "max_hr": 149,
+          "avg_cadence": 80.765625,
+          "zone": 3,
+          "training_load": 13.269652,
+          "decoupling": -0.78406143
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3736,
+          "avg_power": 181,
+          "max_power": 283,
+          "avg_hr": 130,
+          "max_hr": 142,
+          "avg_cadence": 76.188705,
+          "zone": 2,
+          "training_load": 50.536736,
+          "decoupling": 2.6527038
         }
       ]
     }
