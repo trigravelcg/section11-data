@@ -1,83 +1,10 @@
 {
-  "generated_at": "2026-11-10T19:05:35.382327",
+  "generated_at": "2026-11-11T00:00:03.667602",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i202547011",
-      "date": "2026-10-27",
-      "type": "VirtualRide",
-      "name": "Zwift - Aerobic Flow",
-      "interval_summary": [
-        "2x 6m 205w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1803,
-          "avg_power": 167,
-          "max_power": 259,
-          "avg_hr": 125,
-          "max_hr": 144,
-          "avg_cadence": 83.13584,
-          "zone": 2,
-          "training_load": 21.17263,
-          "decoupling": -1.0656133
-        },
-        {
-          "type": "WORK",
-          "label": "360s@205w82rpm",
-          "duration_secs": 361,
-          "avg_power": 205,
-          "max_power": 245,
-          "avg_hr": 137,
-          "max_hr": 142,
-          "avg_cadence": 83.404434,
-          "zone": 3,
-          "training_load": 5.942556,
-          "decoupling": -2.1182358
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 361,
-          "avg_power": 164,
-          "max_power": 210,
-          "avg_hr": 126,
-          "max_hr": 142,
-          "avg_cadence": 86.60942,
-          "zone": 2,
-          "training_load": 4.1267753,
-          "decoupling": -24.40511
-        },
-        {
-          "type": "WORK",
-          "label": "360s@205w82rpm",
-          "duration_secs": 359,
-          "avg_power": 205,
-          "max_power": 237,
-          "avg_hr": 133,
-          "max_hr": 139,
-          "avg_cadence": 81.339836,
-          "zone": 3,
-          "training_load": 5.909633,
-          "decoupling": -2.597363
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2660,
-          "avg_power": 172,
-          "max_power": 255,
-          "avg_hr": 125,
-          "max_hr": 139,
-          "avg_cadence": 82.84699,
-          "zone": 2,
-          "training_load": 33.712692,
-          "decoupling": 3.099277
-        }
-      ]
-    },
     {
       "activity_id": "i202965270",
       "date": "2026-10-28",
