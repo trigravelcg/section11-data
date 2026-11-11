@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-10T19:05:35.387835",
+    "last_updated": "2026-11-11T00:00:03.671381",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -124,7 +124,7 @@
       },
       "acwr": {
         "status": "green",
-        "value": 0.77
+        "value": 0.69
       },
       "ri": {
         "status": "green",
@@ -133,7 +133,7 @@
       },
       "tsb": {
         "status": "green",
-        "value": 13.8
+        "value": 21.1
       }
     },
     "signal_summary": {
@@ -242,17 +242,17 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 83.75,
-      "atl": 70.0,
-      "tsb": 13.75,
-      "ramp_rate": -3.67,
+      "ctl": 81.78,
+      "atl": 60.68,
+      "tsb": 21.1,
+      "ramp_rate": -4.95,
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
-      "eftp": 242.3,
-      "w_prime": 20266,
-      "w_prime_kj": 20.3,
-      "p_max": 878,
+      "eftp": 242.1,
+      "w_prime": 20245,
+      "w_prime_kj": 20.2,
+      "p_max": 877,
       "vo2max": null,
       "sports": {
         "cycling": {
@@ -326,18 +326,18 @@
       "weight_latest_date": "2026-11-10",
       "wkg_current": 3.52,
       "wkg_ftp_source": "tested",
-      "ftp_setting_date": "2026-11-10",
+      "ftp_setting_date": "2026-11-11",
       "wkg_block_start": 3.51,
       "wkg_block_end": 3.53,
       "wkg_block_delta": 0.02,
-      "weight_7d_avg_kg": 75.1,
+      "weight_7d_avg_kg": 75.2,
       "display": {
         "weight_latest": {
           "value": 165.7,
           "unit": "lb"
         },
         "weight_7d_avg": {
-          "value": 165.6,
+          "value": 165.7,
           "unit": "lb"
         }
       }
@@ -352,20 +352,20 @@
     "rhr_baseline_28d": 47.3,
     "latest_hrv": 54.0,
     "latest_rhr": 46,
-    "acwr": 0.77,
+    "acwr": 0.69,
     "acwr_interpretation": "undertraining",
-    "monotony": 1.17,
-    "monotony_interpretation": "normal (primary sport 0.74, total 1.17 inflated by multi-sport)",
+    "monotony": 0.93,
+    "monotony_interpretation": "normal",
     "primary_sport": "cycling",
-    "primary_sport_monotony": 0.74,
-    "primary_sport_tss_7d": 322.0,
-    "effective_monotony": 0.74,
+    "primary_sport_monotony": null,
+    "primary_sport_tss_7d": 264.0,
+    "effective_monotony": 0.93,
     "multi_sport_detected": true,
-    "strain": 528.0,
-    "stress_tolerance": 4.5,
-    "load_recovery_ratio": 3.2,
-    "tss_7d_total": 451.0,
-    "tss_28d_total": 2334.0,
+    "strain": 365.0,
+    "stress_tolerance": 3.9,
+    "load_recovery_ratio": 2.8,
+    "tss_7d_total": 393.0,
+    "tss_28d_total": 2263.0,
     "zone_distribution_7d": {
       "z1_hours": 4.07,
       "z2_hours": 2.46,
@@ -469,12 +469,12 @@
       "power_curve_delta": {
         "window_days": 28,
         "current_window": {
-          "start": "2026-10-14",
+          "start": "2026-10-15",
           "end": "2026-11-10"
         },
         "previous_window": {
-          "start": "2026-09-16",
-          "end": "2026-10-13"
+          "start": "2026-09-17",
+          "end": "2026-10-14"
         },
         "anchors": {
           "5s": {
@@ -509,12 +509,12 @@
       "hr_curve_delta": {
         "window_days": 28,
         "current_window": {
-          "start": "2026-10-14",
+          "start": "2026-10-15",
           "end": "2026-11-10"
         },
         "previous_window": {
-          "start": "2026-09-16",
-          "end": "2026-10-13"
+          "start": "2026-09-17",
+          "end": "2026-10-14"
         },
         "anchors": {
           "60s": {
@@ -544,7 +544,7 @@
       "sustainability_profile": {
         "window": {
           "days": 42,
-          "start": "2026-09-30",
+          "start": "2026-10-01",
           "end": "2026-11-10"
         },
         "weight_kg": 75.2,
@@ -559,9 +559,9 @@
               "source": "observed_outdoor",
               "coggan_watts": 281,
               "coggan_wpkg": 3.74,
-              "cp_model_watts": 333,
-              "cp_model_wpkg": 4.43,
-              "model_divergence_pct": -15.6
+              "cp_model_watts": 332,
+              "cp_model_wpkg": 4.41,
+              "model_divergence_pct": -15.4
             },
             "600s": {
               "actual_watts": 265,
@@ -638,7 +638,7 @@
           },
           "coverage_ratio": 1.0,
           "ftp_used": 265,
-          "w_prime_used": 20266,
+          "w_prime_used": 20245,
           "ftp_staleness_days": 0,
           "model_trust_note": "CP/W' model (P=CP+W'/t) is primary for durations \u226420min where W' contribution is meaningful. Coggan duration factors (Allen & Coggan, 3rd ed.) are the established reference for \u226560min. 30min is the crossover zone where both apply. model_divergence_pct = (actual - CP_model) / CP_model \u00d7 100. Positive divergence at short durations may indicate strong anaerobic capacity or stale W' value. Indoor MMP is typically 3-5% lower than outdoor (cooling, motivation) \u2014 source flag indicates which environment produced each anchor."
         }
@@ -702,13 +702,13 @@
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
-    "eftp": 242.3,
-    "w_prime": 20266,
-    "w_prime_kj": 20.3,
-    "p_max": 878,
+    "eftp": 242.1,
+    "w_prime": 20245,
+    "w_prime_kj": 20.2,
+    "p_max": 877,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-10T19:05:35.386505",
+    "calculation_timestamp": "2026-11-11T00:00:03.670435",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -716,8 +716,8 @@
       "activities_28d": 37,
       "planned_workouts_7d": 0,
       "ftp_history_days": {
-        "indoor": 175,
-        "outdoor": 175
+        "indoor": 176,
+        "outdoor": 176
       }
     }
   },
@@ -2568,7 +2568,7 @@
           "z7_time": 0
         }
       },
-      "has_intervals": true,
+      "has_intervals": false,
       "has_dfa": false
     },
     {
