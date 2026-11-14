@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:47:43.204069",
+  "generated_at": "2026-11-14T17:29:27.167905",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1109,6 +1109,27 @@
           "zone": 1,
           "training_load": 21.335054,
           "decoupling": 6.590304
+        }
+      ]
+    },
+    {
+      "activity_id": "i210002790",
+      "date": "2026-11-14",
+      "type": "Ride",
+      "name": "Los Angeles County Road Cycling",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5201,
+          "avg_power": 148,
+          "max_power": 501,
+          "avg_hr": 124,
+          "max_hr": 150,
+          "avg_cadence": 67.492195,
+          "zone": 2,
+          "training_load": 58.325493,
+          "decoupling": -1.3893913
         }
       ]
     }
