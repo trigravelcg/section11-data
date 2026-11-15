@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:57:39.853381",
+  "generated_at": "2026-11-15T19:15:16.591228",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -725,6 +725,80 @@
           "zone": 2,
           "training_load": 58.325493,
           "decoupling": -1.3893913
+        }
+      ]
+    },
+    {
+      "activity_id": "i210483569",
+      "date": "2026-11-15",
+      "type": "VirtualRide",
+      "name": "Zwift - One Ride to Rule Them All in Watopia",
+      "interval_summary": [
+        "1x 3m5s 212w",
+        "1x 3m26s 203w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2405,
+          "avg_power": 188,
+          "max_power": 308,
+          "avg_hr": 129,
+          "max_hr": 143,
+          "avg_cadence": 77.986565,
+          "zone": 2,
+          "training_load": 34.68987,
+          "decoupling": 0.2593941
+        },
+        {
+          "type": "WORK",
+          "label": "185s@212w76rpm",
+          "duration_secs": 185,
+          "avg_power": 212,
+          "max_power": 261,
+          "avg_hr": 135,
+          "max_hr": 140,
+          "avg_cadence": 75.816216,
+          "zone": 3,
+          "training_load": 3.2579348,
+          "decoupling": 2.8209815
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 546,
+          "avg_power": 182,
+          "max_power": 276,
+          "avg_hr": 133,
+          "max_hr": 144,
+          "avg_cadence": 81.52198,
+          "zone": 2,
+          "training_load": 7.633331,
+          "decoupling": 2.5135403
+        },
+        {
+          "type": "WORK",
+          "label": "206s@203w80rpm",
+          "duration_secs": 206,
+          "avg_power": 203,
+          "max_power": 249,
+          "avg_hr": 134,
+          "max_hr": 140,
+          "avg_cadence": 79.51942,
+          "zone": 3,
+          "training_load": 3.2593648,
+          "decoupling": -4.698327
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2199,
+          "avg_power": 182,
+          "max_power": 333,
+          "avg_hr": 131,
+          "max_hr": 150,
+          "avg_cadence": 78.31059,
+          "zone": 2,
+          "training_load": 30.74303,
+          "decoupling": 1.5844828
         }
       ]
     }
