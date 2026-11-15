@@ -65,12 +65,12 @@
       "total_training_hours": 4.32,
       "total_training_formatted": "4h18m",
       "total_activities": 4,
-      "total_tss": 172
+      "total_tss": 187
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-15T19:15:17.433921",
+    "last_updated": "2026-11-15T19:17:04.848386",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -124,7 +124,7 @@
       },
       "acwr": {
         "status": "green",
-        "value": 0.34
+        "value": 0.37
       },
       "ri": {
         "status": "green",
@@ -133,7 +133,7 @@
       },
       "tsb": {
         "status": "green",
-        "value": 22.9
+        "value": 21.2
       }
     },
     "signal_summary": {
@@ -193,7 +193,7 @@
       "WeightTraining": {
         "duration_decimal_hours": 0.75,
         "count": 1,
-        "tss": 13,
+        "tss": 28,
         "distance_km": 0.0,
         "display": {
           "distance": {
@@ -206,10 +206,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 78.34,
-      "atl": 55.44,
-      "tsb": 22.9,
-      "ramp_rate": -9.49,
+      "ctl": 78.69,
+      "atl": 57.44,
+      "tsb": 21.25,
+      "ramp_rate": -9.14,
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
@@ -259,12 +259,12 @@
       "sleep_hours": 8.57,
       "sleep_formatted": "8h34m",
       "sleep_score": 78.0,
-      "fatigue": null,
-      "soreness": null,
-      "stress": null,
-      "mood": null,
-      "motivation": null,
-      "injury": null,
+      "fatigue": 1,
+      "soreness": 1,
+      "stress": 1,
+      "mood": 2,
+      "motivation": 2,
+      "injury": 1,
       "hydration": null,
       "spO2": null,
       "blood_glucose": null,
@@ -318,20 +318,20 @@
     "rhr_baseline_28d": 47.6,
     "latest_hrv": 31.0,
     "latest_rhr": 50,
-    "acwr": 0.34,
+    "acwr": 0.37,
     "acwr_interpretation": "undertraining",
-    "monotony": 0.66,
+    "monotony": 0.64,
     "monotony_interpretation": "normal",
     "primary_sport": "cycling",
     "primary_sport_monotony": 0.69,
     "primary_sport_tss_7d": 159.0,
     "effective_monotony": 0.69,
     "multi_sport_detected": true,
-    "strain": 114.0,
-    "stress_tolerance": 1.7,
-    "load_recovery_ratio": 1.9,
-    "tss_7d_total": 172.0,
-    "tss_28d_total": 2018.0,
+    "strain": 120.0,
+    "stress_tolerance": 1.9,
+    "load_recovery_ratio": 2.1,
+    "tss_7d_total": 187.0,
+    "tss_28d_total": 2033.0,
     "zone_distribution_7d": {
       "z1_hours": 1.89,
       "z2_hours": 1.45,
@@ -674,7 +674,7 @@
     "p_max": 874,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-15T19:15:17.432636",
+    "calculation_timestamp": "2026-11-15T19:17:04.847066",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -773,8 +773,8 @@
       "name": "MS Stength",
       "duration_hours": 0.75,
       "distance_km": 0.0,
-      "tss": 13,
-      "intensity_factor": 41.579456,
+      "tss": 28,
+      "intensity_factor": 61.021957,
       "avg_power": null,
       "normalized_power": null,
       "avg_hr": 97,
@@ -4414,12 +4414,12 @@
       "mental_energy": null,
       "avg_sleeping_hr": null,
       "vo2max": null,
-      "fatigue": null,
-      "soreness": null,
-      "stress": null,
-      "mood": null,
-      "motivation": null,
-      "injury": null,
+      "fatigue": 1,
+      "soreness": 1,
+      "stress": 1,
+      "mood": 2,
+      "motivation": 2,
+      "injury": 1,
       "hydration": null,
       "spO2": null,
       "blood_glucose": null,
@@ -4453,7 +4453,7 @@
   "weekly_summary": {
     "total_training_hours": 4.32,
     "total_training_formatted": "4h18m",
-    "total_tss": 172,
+    "total_tss": 187,
     "activities_count": 4,
     "avg_hrv": 33.7,
     "avg_resting_hr": 48.9
