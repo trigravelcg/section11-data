@@ -1,105 +1,10 @@
 {
-  "generated_at": "2026-11-18T20:32:35.055409",
+  "generated_at": "2026-11-19T00:49:19.944005",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i205918655",
-      "date": "2026-11-04",
-      "type": "VirtualRide",
-      "name": "Zwift - Easy Ride",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 694,
-          "avg_power": 140,
-          "max_power": 189,
-          "avg_hr": 113,
-          "max_hr": 121,
-          "avg_cadence": 81.71614,
-          "zone": 1,
-          "training_load": 5.6054573,
-          "decoupling": 2.0975225
-        }
-      ]
-    },
-    {
-      "activity_id": "i205915848",
-      "date": "2026-11-04",
-      "type": "VirtualRide",
-      "name": "Zwift - Endurance #1 (Endurance)",
-      "interval_summary": [
-        "1x 59s 291w",
-        "1x 4m29s 240w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 423,
-          "avg_power": 154,
-          "max_power": 195,
-          "avg_hr": 112,
-          "max_hr": 124,
-          "avg_cadence": 77.572105,
-          "zone": 2,
-          "training_load": 4.019847,
-          "decoupling": 2.4905758
-        },
-        {
-          "type": "WORK",
-          "label": "59s@291w77rpm",
-          "duration_secs": 59,
-          "avg_power": 291,
-          "max_power": 326,
-          "avg_hr": 130,
-          "max_hr": 141,
-          "avg_cadence": 76.55932,
-          "zone": 5,
-          "training_load": 1.6388888,
-          "decoupling": 11.063959
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 271,
-          "avg_power": 157,
-          "max_power": 253,
-          "avg_hr": 121,
-          "max_hr": 142,
-          "avg_cadence": 84.734314,
-          "zone": 2,
-          "training_load": 3.2454398,
-          "decoupling": -40.202896
-        },
-        {
-          "type": "WORK",
-          "label": "269s@240w75rpm",
-          "duration_secs": 269,
-          "avg_power": 240,
-          "max_power": 267,
-          "avg_hr": 144,
-          "max_hr": 151,
-          "avg_cadence": 74.56877,
-          "zone": 4,
-          "training_load": 6.0779037,
-          "decoupling": 4.799534
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2591,
-          "avg_power": 182,
-          "max_power": 408,
-          "avg_hr": 133,
-          "max_hr": 150,
-          "avg_cadence": 82.76457,
-          "zone": 2,
-          "training_load": 35.76988,
-          "decoupling": 0.78660184
-        }
-      ]
-    },
     {
       "activity_id": "i206388603",
       "date": "2026-11-05",
@@ -703,6 +608,104 @@
           "zone": 2,
           "training_load": 23.319143,
           "decoupling": 3.2909837
+        }
+      ]
+    },
+    {
+      "activity_id": "i211874455",
+      "date": "2026-11-18",
+      "type": "VirtualRide",
+      "name": "Zwift - 90-Minute Gravel Roller Coffee Cruise",
+      "interval_summary": [
+        "3x 10m7s 201w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1709,
+          "avg_power": 177,
+          "max_power": 243,
+          "avg_hr": 130,
+          "max_hr": 144,
+          "avg_cadence": 81.6193,
+          "zone": 2,
+          "training_load": 22.333948,
+          "decoupling": -2.2536218
+        },
+        {
+          "type": "WORK",
+          "label": "607s@201w79rpm",
+          "duration_secs": 611,
+          "avg_power": 201,
+          "max_power": 255,
+          "avg_hr": 143,
+          "max_hr": 152,
+          "avg_cadence": 78.476265,
+          "zone": 3,
+          "training_load": 9.764255,
+          "decoupling": 2.6775167
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 118,
+          "avg_power": 169,
+          "max_power": 213,
+          "avg_hr": 141,
+          "max_hr": 150,
+          "avg_cadence": 87.15254,
+          "zone": 2,
+          "training_load": 1.4294332,
+          "decoupling": -5.8906527
+        },
+        {
+          "type": "WORK",
+          "label": "607s@201w79rpm",
+          "duration_secs": 607,
+          "avg_power": 201,
+          "max_power": 252,
+          "avg_hr": 147,
+          "max_hr": 153,
+          "avg_cadence": 79.05931,
+          "zone": 3,
+          "training_load": 9.700331,
+          "decoupling": 0.7105167
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 834,
+          "avg_power": 193,
+          "max_power": 248,
+          "avg_hr": 142,
+          "max_hr": 151,
+          "avg_cadence": 79.28058,
+          "zone": 2,
+          "training_load": 12.544144,
+          "decoupling": -2.0333302
+        },
+        {
+          "type": "WORK",
+          "label": "607s@201w79rpm",
+          "duration_secs": 603,
+          "avg_power": 202,
+          "max_power": 261,
+          "avg_hr": 142,
+          "max_hr": 148,
+          "avg_cadence": 78.719734,
+          "zone": 3,
+          "training_load": 9.732532,
+          "decoupling": -0.034194283
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1028,
+          "avg_power": 165,
+          "max_power": 232,
+          "avg_hr": 134,
+          "max_hr": 146,
+          "avg_cadence": 76.72276,
+          "zone": 2,
+          "training_load": 11.751592,
+          "decoupling": 8.232787
         }
       ]
     }
