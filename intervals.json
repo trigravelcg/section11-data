@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:58:16.810070",
+  "generated_at": "2026-11-20T01:16:00.762548",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -613,6 +613,27 @@
           "zone": 2,
           "training_load": 11.751592,
           "decoupling": 8.232787
+        }
+      ]
+    },
+    {
+      "activity_id": "i212314514",
+      "date": "2026-11-19",
+      "type": "VirtualRide",
+      "name": "Zwift - High Cadence Drills",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3621,
+          "avg_power": 142,
+          "max_power": 236,
+          "avg_hr": 124,
+          "max_hr": 142,
+          "avg_cadence": 92.8343,
+          "zone": 1,
+          "training_load": 30.924948,
+          "decoupling": 0.90766495
         }
       ]
     }
