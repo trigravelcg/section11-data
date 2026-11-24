@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:16:47.660632",
+  "generated_at": "2026-11-24T01:30:04.387579",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1186,6 +1186,27 @@
           "zone": 2,
           "training_load": 46.12162,
           "decoupling": -6.9428005
+        }
+      ]
+    },
+    {
+      "activity_id": "i213879988",
+      "date": "2026-11-23",
+      "type": "VirtualRide",
+      "name": "Zwift - Easy Ride",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1510,
+          "avg_power": 146,
+          "max_power": 274,
+          "avg_hr": 115,
+          "max_hr": 136,
+          "avg_cadence": 80.24967,
+          "zone": 2,
+          "training_load": 14.890911,
+          "decoupling": 2.1592112
         }
       ]
     }
